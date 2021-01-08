@@ -1,4 +1,4 @@
-package models;
+package model.bean;
 
 public class Filme {
 	private int idFilme;
